@@ -1,0 +1,20 @@
+.discountBagde{
+    background-color: #3187ED;
+    position: absolute;
+    top: 30px;
+    right: 0;
+    height: 40px;
+    color: white;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.hotsaleCard{
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.179);
+    border: none;
+    padding: 10px;
+}

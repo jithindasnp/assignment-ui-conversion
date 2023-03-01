@@ -1,0 +1,50 @@
+.classifiedScrollBtn {
+    border: none;
+    background-color: transparent;
+    width: 40px;
+    height: 40px;
+}
+
+.classifiedContainer {
+    background-color: #E5E5E5;
+}
+
+.flickity-page-dots {
+    display: none;
+}
+
+
+.flickity-button.next {
+    position: absolute;
+    left: -190px;
+    top: 250px;
+
+}
+
+.flickity-button.previous {
+    position: absolute;
+    left: -263px;
+    top: 250px;
+}
+
+.classifiedCarouselTitle {
+    width: 55%;
+    text-align: center;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    line-height: 45px;
+}
+
+.classifiedCarouselBtn {
+    box-shadow: 0px 0px 10px #00c5d7c6;
+    width: 150px;
+    height: 60px;
+    font-size: large;
+    font-weight: 500;
+}
+
+.classifiedCard {
+    border-radius: 30px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.405);
+}

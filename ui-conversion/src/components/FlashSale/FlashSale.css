@@ -1,0 +1,10 @@
+.flashContainer {
+    background-color: #3186ed;
+    background-image:  url('../../../public/images/flashsale.png');
+    background-size: cover;
+}
+.flashCard{
+    border-radius: 20px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.024);
+    border: none;
+}

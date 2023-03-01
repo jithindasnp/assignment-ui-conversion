@@ -1,0 +1,34 @@
+.blueBox{
+    background-image: url("../../../public/images/blue.png");
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    border-radius: 20PX;
+}
+.violetBox{
+    background-image: url("../../../public/images/violet.png");
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    border-radius: 20PX;
+}
+.greenBox{
+    background-image: url("../../../public/images/green.png");
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    border-radius: 20PX;
+}
+.redBox{
+    background-image: url("../../../public/images/red.png");
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    border-radius: 20PX;
+}
+.angleBtn{
+    border-radius: 50%;
+    border: 1px solid white;
+    height: 45px;
+    width: 45px;
+}

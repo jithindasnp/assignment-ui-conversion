@@ -1,0 +1,28 @@
+.newsLetter{
+    background-color: #3187ED;
+}
+#subBtn{
+    position: relative;
+    top: -43px;
+    left:86%;
+}
+#inpNewsletter{
+    height: 50px;
+}
+.topOfPage{
+    height: 50px;
+    background-color:#F8F8F8 ;
+}
+.footerIcons{
+    color: #DADADA;
+    background-color: #ede6e669;
+    border: 1px solid rgb(213, 213, 213);
+    padding: 10px;
+}
+.apple,.android{
+    width: 50%;
+    height: 70px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}

@@ -1,0 +1,15 @@
+.text-blue {
+    color: #3187ED;
+}
+
+.cardRecomPrice {
+    text-decoration: line-through;
+}
+
+.react-multi-carousel-list {
+    position: unset !important;
+}
+
+.react-multiple-carousel__arrow--right {
+    background-color: rgb(103, 103, 103) !important;
+}
