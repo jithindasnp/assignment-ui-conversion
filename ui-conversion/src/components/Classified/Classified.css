@@ -16,14 +16,14 @@
 
 .flickity-button.next {
     position: absolute;
-    left: -190px;
+    left: -160px;
     top: 250px;
 
 }
 
 .flickity-button.previous {
     position: absolute;
-    left: -263px;
+    left: -233px;
     top: 250px;
 }
 

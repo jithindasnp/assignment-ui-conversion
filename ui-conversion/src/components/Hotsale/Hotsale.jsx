@@ -48,9 +48,9 @@ export default function Hotsale() {
                             dotListClass="custom-dot-list-style"
                             itemClass="carousel-item-padding-40-px"
                         >
-                            <div className="card hotsaleCard my-3" style={{ width: "18rem" }}>
+                            <div className="card hotsaleCard my-3" style={{ width: "15rem" }}>
                                 <p className='discountBagde'>30% OFF</p>
-                                <img src="/images/beanbag.png" className="card-img-top" height={250} alt="..." />
+                                <img src="/images/beanbag.png" className="card-img-top" height={150} alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title d-flex justify-content-start">Holy Stone HS470 Foldable GPS RC Drone</h5>
                                     <div className="cardText d-flex justify-content-between">
@@ -63,8 +63,8 @@ export default function Hotsale() {
                                     <button type="button" className="btn btn-outline-primary w-100">Add to cart</button>
                                 </div>
                             </div>
-                            <div className="card hotsaleCard my-3" style={{ width: "18rem" }}>
-                                <img src="/images/desktop.png" className="card-img-top" height={250} alt="..." />
+                            <div className="card hotsaleCard my-3" style={{ width: "15rem" }}>
+                                <img src="/images/desktop.png" className="card-img-top" height={150} alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title d-flex justify-content-start">Holy Stone HS470 Foldable GPS RC Drone</h5>
                                     <div className="cardText d-flex justify-content-between">
@@ -77,8 +77,8 @@ export default function Hotsale() {
                                     <button type="button" className="btn btn-outline-primary w-100">Add to cart</button>
                                 </div>
                             </div>
-                            <div className="card hotsaleCard my-3" style={{ width: "18rem" }}>
-                                <img src="/images/jbl.png" className="card-img-top" height={250} alt="..." />
+                            <div className="card hotsaleCard my-3" style={{ width: "15rem" }}>
+                                <img src="/images/jbl.png" className="card-img-top" height={150} alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title d-flex justify-content-start">Holy Stone HS470 Foldable GPS RC Drone</h5>
                                     <div className="cardText d-flex justify-content-between">
@@ -91,8 +91,8 @@ export default function Hotsale() {
                                     <button type="button" className="btn btn-outline-primary w-100">Add to cart</button>
                                 </div>
                             </div>
-                            <div className="card hotsaleCard my-3" style={{ width: "18rem" }}>
-                                <img src="/images/console.png" className="card-img-top" height={250} alt="..." />
+                            <div className="card hotsaleCard my-3" style={{ width: "15rem" }}>
+                                <img src="/images/console.png" className="card-img-top" height={150} alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title d-flex justify-content-start">Holy Stone HS470 Foldable GPS RC Drone</h5>
                                     <div className="cardText d-flex justify-content-between">
@@ -105,8 +105,8 @@ export default function Hotsale() {
                                     <button type="button" className="btn btn-outline-primary w-100">Add to cart</button>
                                 </div>
                             </div>
-                            <div className="card hotsaleCard my-3" style={{ width: "18rem" }}>
-                                <img src="/images/lap.png" className="card-img-top" height={250} alt="..." />
+                            <div className="card hotsaleCard my-3" style={{ width: "15rem" }}>
+                                <img src="/images/lap.png" className="card-img-top" height={150} alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title d-flex justify-content-start">Holy Stone HS470 Foldable GPS RC Drone</h5>
                                     <div className="cardText d-flex justify-content-between">
@@ -119,8 +119,8 @@ export default function Hotsale() {
                                     <button type="button" className="btn btn-outline-primary w-100">Add to cart</button>
                                 </div>
                             </div>
-                            <div className="card hotsaleCard my-3" style={{ width: "18rem" }}>
-                                <img src="/images/camera.png" className="card-img-top" height={250} alt="..." />
+                            <div className="card hotsaleCard my-3" style={{ width: "15rem" }}>
+                                <img src="/images/camera.png" className="card-img-top" height={150} alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title d-flex justify-content-start">Holy Stone HS470 Foldable GPS RC Drone</h5>
                                     <div className="cardText d-flex justify-content-between">
@@ -133,8 +133,8 @@ export default function Hotsale() {
                                     <button type="button" className="btn btn-outline-primary w-100">Add to cart</button>
                                 </div>
                             </div>
-                            <div className="card hotsaleCard my-3" style={{ width: "18rem" }}>
-                                <img src="/images/macbook.png" className="card-img-top" height={250} alt="..." />
+                            <div className="card hotsaleCard my-3" style={{ width: "15rem" }}>
+                                <img src="/images/macbook.png" className="card-img-top" height={150} alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title d-flex justify-content-start">Holy Stone HS470 Foldable GPS RC Drone</h5>
                                     <div className="cardText d-flex justify-content-between">
@@ -147,8 +147,8 @@ export default function Hotsale() {
                                     <button type="button" className="btn btn-outline-primary w-100">Add to cart</button>
                                 </div>
                             </div>
-                            <div className="card hotsaleCard my-3" style={{ width: "18rem" }}>
-                                <img src="/images/shoe.png" className="card-img-top" height={250} alt="..." />
+                            <div className="card hotsaleCard my-3" style={{ width: "15rem" }}>
+                                <img src="/images/shoe.png" className="card-img-top" height={150} alt="..." />
                                 <div className="card-body">
                                     <h5 className="card-title d-flex justify-content-start">Holy Stone HS470 Foldable GPS RC Drone</h5>
                                     <div className="cardText d-flex justify-content-between">

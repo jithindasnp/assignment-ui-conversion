@@ -42,14 +42,14 @@ export default function Footer() {
                                 sed do eiusmod tempor incididunt ut labore et dolore
                             </p>
                             <div className="row my-3">
-                                <div className="col-auto"><i class="fa-brands footerIcons fa-youtube"></i></div>
-                                <div className="col-auto"><i class="fa-brands footerIcons fa-linkedin"></i></div>
-                                <div className="col-auto"><i class="fa-brands footerIcons fa-twitter"></i></div>
-                                <div className="col-auto"><i class="fa-brands footerIcons fa-facebook"></i></div>
-                                <div className="col-auto"><i class="fa-brands footerIcons fa-instagram"></i></div>
+                                <div className="col-sm-2"><i class="fa-brands footerIcons fa-youtube"></i></div>
+                                <div className="col-sm-2"><i class="fa-brands footerIcons fa-linkedin"></i></div>
+                                <div className="col-sm-2"><i class="fa-brands footerIcons fa-twitter"></i></div>
+                                <div className="col-sm-2"><i class="fa-brands footerIcons fa-facebook"></i></div>
+                                <div className="col-sm-2"><i class="fa-brands footerIcons fa-instagram"></i></div>
                             </div>
                         </div>
-                        <div className="col-sm-auto mx-3 mt-3">
+                        <div className="col-sm-auto mx-1 mt-3">
                             <p className='mb-3 fw-bolder'>QUICK LINKS</p>
                             <p>Products</p>
                             <p>Classifieds </p>
@@ -57,7 +57,7 @@ export default function Footer() {
                             <p>Login</p>
                             <p>Sign Up</p>
                         </div>
-                        <div className="col-sm-auto mx-3 mt-3">
+                        <div className="col-sm-auto mx-1 mt-3">
                             <p className='mb-3 fw-bolder'>CUSTOMER AREA</p>
                             <p>My Account </p>
                             <p>Orders  </p>
@@ -67,7 +67,7 @@ export default function Footer() {
                             <p>Return Policy</p>
                             <p>My Cart</p>
                         </div>
-                        <div className="col-sm-auto mx-3 mt-3">
+                        <div className="col-sm-auto mx-1 mt-3">
                             <p className='mb-3 fw-bolder'>VENDOR AREA</p>
                             <p>Partner with us</p>
                             <p>Training </p>

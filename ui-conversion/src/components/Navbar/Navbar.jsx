@@ -5,7 +5,7 @@ export default function Navbar() {
 
     return (
         <>
-            <div className="container me-3">
+            <div className="container m-0 d-flex justify-content-center">
                 <div className="row">
                     <div className="col-sm-12 col">
                         <nav className="navbar navbar-dark navbar-expand-md ">
@@ -128,10 +128,10 @@ export default function Navbar() {
                 </div>
 
             </div>
-            <div className="container me-1">
-                <div className="row">
-                    <div className="col-sm-2  d-flex align-items-center ">
-                        <ul className="navbar-nav  mb-2 mb-lg-0">
+            <div className="container ">
+                <div className="row ">
+                    <div className="col-sm-2 d-flex justify-content-end align-items-center ">
+                        <ul className="navbar-nav p-0 mb-2 mb-lg-0">
                             <li className="nav-item dropdown">
                                 <a
                                     className="nav-link p-0 navBottomLink"
@@ -167,7 +167,7 @@ export default function Navbar() {
                             </li>
                         </ul>
                     </div>
-                    <div className="col-lg-10 col">
+                    <div className="col-lg-10  col">
                         <div className="row">
                             <div className="col-sm-auto col mt-md-0 mt-sm-1 mt-3 d-flex align-items-center navBottomLink">Books</div>
                             <div className="col-sm-auto col mt-md-0 mt-sm-1 mt-3 d-flex align-items-center navBottomLink">Electronics</div>
